@@ -1,6 +1,5 @@
 <?php
-header("Access-Control-Allow-Origin: *");
-header("X-Frame-Options: SAMEORIGIN");
+header("X-Frame-Options: ALLOW");
 echo "Naresh";
 
 ?>
